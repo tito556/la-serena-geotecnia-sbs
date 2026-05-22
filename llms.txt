@@ -1,0 +1,51 @@
+# Geotecnia1 — La Serena
+
+> Geotechnical engineering services in La Serena, Chile.
+
+## Services
+- [Aislacion Sismica](https://la-serena.geotecnia.sbs/aislacion-sismica/)
+- [Anclajes](https://la-serena.geotecnia.sbs/anclajes/)
+- [Calicatas](https://la-serena.geotecnia.sbs/calicatas/)
+- [Cbr Vial](https://la-serena.geotecnia.sbs/cbr-vial/)
+- [Cimentaciones](https://la-serena.geotecnia.sbs/cimentaciones/)
+- [Columnas Grava](https://la-serena.geotecnia.sbs/columnas-grava/)
+- [Densidad Cono Arena](https://la-serena.geotecnia.sbs/densidad-cono-arena/)
+- [Ensayo Cpt](https://la-serena.geotecnia.sbs/ensayo-cpt/)
+- [Ensayos Proctor](https://la-serena.geotecnia.sbs/ensayos-proctor/)
+- [Estabilidad Taludes](https://la-serena.geotecnia.sbs/estabilidad-taludes/)
+- [Excavaciones Profundas](https://la-serena.geotecnia.sbs/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://la-serena.geotecnia.sbs/excavaciones-subterraneo/)
+- [Exploracion](https://la-serena.geotecnia.sbs/exploracion/)
+- [Geotecnia Vial](https://la-serena.geotecnia.sbs/geotecnia-vial/)
+- [Granulometria](https://la-serena.geotecnia.sbs/granulometria/)
+- [Inyecciones](https://la-serena.geotecnia.sbs/inyecciones/)
+- [Laboratorio In Situ](https://la-serena.geotecnia.sbs/laboratorio-in-situ/)
+- [Laboratorio Lab](https://la-serena.geotecnia.sbs/laboratorio-lab/)
+- [Licuefaccion](https://la-serena.geotecnia.sbs/licuefaccion/)
+- [Limites Atterberg](https://la-serena.geotecnia.sbs/limites-atterberg/)
+- [Losas Fundacion](https://la-serena.geotecnia.sbs/losas-fundacion/)
+- [Masw](https://la-serena.geotecnia.sbs/masw/)
+- [Mejoramiento](https://la-serena.geotecnia.sbs/mejoramiento/)
+- [Microzonificacion Sismica](https://la-serena.geotecnia.sbs/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://la-serena.geotecnia.sbs/monitoreo-excavaciones/)
+- [Muros Contencion](https://la-serena.geotecnia.sbs/muros-contencion/)
+- [Pavimento Flexible](https://la-serena.geotecnia.sbs/pavimento-flexible/)
+- [Pavimento Rigido](https://la-serena.geotecnia.sbs/pavimento-rigido/)
+- [Permeabilidad In Situ](https://la-serena.geotecnia.sbs/permeabilidad-in-situ/)
+- [Pilotes](https://la-serena.geotecnia.sbs/pilotes/)
+- [Refraccion Sismica](https://la-serena.geotecnia.sbs/refraccion-sismica/)
+- [Resistividad](https://la-serena.geotecnia.sbs/resistividad/)
+- [Sismica](https://la-serena.geotecnia.sbs/sismica/)
+- [Sondajes Spt](https://la-serena.geotecnia.sbs/sondajes-spt/)
+- [Taludes](https://la-serena.geotecnia.sbs/taludes/)
+- [Triaxial](https://la-serena.geotecnia.sbs/triaxial/)
+- [Tuneles Suelo Blando](https://la-serena.geotecnia.sbs/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://la-serena.geotecnia.sbs/vibrocompactacion/)
+- [Zapatas](https://la-serena.geotecnia.sbs/zapatas/)
+
+## Contact
+- Website: https://la-serena.geotecnia.sbs/
+
+## About
+This site provides geotechnical engineering services in La Serena, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
